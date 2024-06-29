@@ -1,0 +1,31 @@
+/* Reset CSS */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+
+/* Card styling */
+.card {
+
+    padding: 15px;
+    margin-bottom: 20px;
+    border: 1px solid lightgray;
+    overflow: hidden}
+
+/* Image styling */
+.card img {
+    width: 100%;
+    height: auto;
+
+}
+
+/* Description styling */
+.card p.description {
+    text-align: center;
+    color: #666;
+    font-size: 14px;
+}
